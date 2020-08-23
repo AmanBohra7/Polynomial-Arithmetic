@@ -1,2 +1,4 @@
 ﻿  Node.cpp
-  WindowsProject1.vcxproj -> C:\Users\aman bohra\source\repos\WindowsProject1\Debug\WindowsProject1.exe
+c:\users\aman bohra\documents\github\polynomial-arithmetic\windowsproject1\node.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\aman bohra\documents\github\polynomial-arithmetic\windowsproject1\node.cpp(164): warning C4018: '<': signed/unsigned mismatch
+  WindowsProject1.vcxproj -> C:\Users\aman bohra\Documents\GitHub\Polynomial-Arithmetic\WindowsProject1\Debug\WindowsProject1.exe
