@@ -9,7 +9,7 @@ Coded in cpp using wxWidget for UI, addition and subtraction of two single varia
 
 ![](WindowsProject1/images/ss_1.png)
 
-## Some knwon errors:
+## Some known errors:
 * copy pasting polynomials may give error
 * -ve values may face some errors 
 
